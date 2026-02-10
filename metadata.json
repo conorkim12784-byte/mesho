@@ -1,0 +1,5 @@
+{
+  "name": "Tlashany Bot Manager",
+  "description": "A professional management dashboard for the Tlashany Telegram Bot, featuring rank control, protection settings, and an integrated Gemini-powered AI chat interface.",
+  "requestFramePermissions": []
+}
